@@ -67,6 +67,8 @@ github.com/d2g/dhcp4client
 github.com/d2g/dhcp4server
 github.com/d2g/dhcp4server/leasepool
 github.com/d2g/dhcp4server/leasepool/memorypool
+# github.com/docker/docker v20.10.12+incompatible
+## explicit
 # github.com/fsnotify/fsnotify v1.4.9
 github.com/fsnotify/fsnotify
 # github.com/godbus/dbus/v5 v5.0.4
@@ -84,6 +86,9 @@ github.com/j-keck/arping
 # github.com/mattn/go-shellwords v1.0.12
 ## explicit
 github.com/mattn/go-shellwords
+# github.com/moby/moby v20.10.12+incompatible
+## explicit
+github.com/moby/moby/pkg/reexec
 # github.com/nxadm/tail v1.4.8
 github.com/nxadm/tail
 github.com/nxadm/tail/ratelimiter
